@@ -1,6 +1,6 @@
 ### Hi there 👋 If you need more info, just let me know...
 
-class Profile {
+```class Profile {
     constructor(name,lastname,gitProfile,birthday,linkedin){
         this.name= name;
         this.lastname= lastname;
@@ -27,6 +27,8 @@ class Profile {
 
 const Otar = new Profile('Otar','Kebadze','OtarKebadze','8 August 1990','https://www.linkedin.com/in/otarkebadze/')
 
+
+```
 --------------------------------------------------------------------------------------------------------------------------
 
 <!--
