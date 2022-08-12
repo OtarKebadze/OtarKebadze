@@ -1,6 +1,8 @@
 ### Hi there 👋 If you need more info, just let me know...
 
-```class Profile {
+```
+
+class Profile {
     constructor(name,lastname,gitProfile,birthday,linkedin){
         this.name= name;
         this.lastname= lastname;
