@@ -27,7 +27,7 @@ class Profile {
     }
 }
 
-const Otar = new Profile('Otar','Kebadze','OtarKebadze','8 August 1990','https://www.linkedin.com/in/otarkebadze/')
+const Otar = new Profile('Otar','Kebadze','OtarKebadze','8 August 1990','https://www.linkedin.com/in/otarkebadze/');
 
 
 ```
