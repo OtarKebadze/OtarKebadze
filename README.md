@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 Otar Kebadze</h1>
 <h3 align="center">If you need more info, just let me know...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=otarkebadze&label=Profile%20views&color=0e75b6&style=flat" alt="otarkebadze" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=otarkebadze&label=Profile%20views&color=0e75b6&style=flat" alt="otarkebadze" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otarkebadze" alt="otarkebadze" /></a> </p>
 
