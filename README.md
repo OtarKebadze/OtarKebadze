@@ -34,7 +34,7 @@ class Profile {
             'FRONTEND':['Html', 'Css / Sass', 'Javascript', 'React Js', 'Bootstrap'],
             'BACKEND':['Node Js' , 'Express'],
             'DATABASE':['MongoDb / Mongoose / Mongo Atlas', 'Firebase' , 'MySql'],
-            'TOLLS':['Git' , 'Github', 'Gitlab', 'Storybooks', 'Visualcode', 'IntellIj Idea', 'Postman'],
+            'TOOLS':['Git' , 'Github', 'Gitlab', 'Storybooks', 'Visualcode', 'IntellIj Idea', 'Postman'],
             'AGILE METHODOLOGIES':'Kanban',
         }
     }
