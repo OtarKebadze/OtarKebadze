@@ -63,8 +63,4 @@ const Otar = {
 </p>
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=otarkebadze&show_icons=true&theme=dark" alt="otarkebadze"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otarkebadze&theme=dark" alt="otarkebadze"/></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otarkebadze&" alt="otarkebadze"/></p>
